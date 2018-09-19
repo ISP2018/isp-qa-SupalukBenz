@@ -30,7 +30,7 @@ From the sentence above, what's the habit of [_7 Habits of Highly Effective Deve
 - [ ] They can waste project resources.
 - [ ] They may introduce bugs in the software system.
 
-
+***
 
 ## Answers
 
@@ -56,40 +56,40 @@ You are able to focus directly on just the issues that are relevant to the probl
 
 **A3**: 
 
-1.Waterfall model
- - Advantages: 
+1.Waterfall model<br>
+Advantages
   - It's useful when requirement are clear.
   - It's easy to manage due to the rigidity of the model, each phase has specific deliverables and a review process.
 
- - Disadvantages
+Disadvantages
   - Not a good model for complex and object-oriented projects.
   - Not a good when requirements are ambiguous, and doesn’t support frequent interaction with the customers for feedback and proposing changes.
   - Poor model for long and ongoing projects.
   - No working software is produced until late during the life cycle.
 
-2.Spiral model
- - Advantages: 
+2.Spiral model<br>
+Advantages 
   - It’s good for high risky or large projects where the requirements are ambiguous.
   - Strong approval and documentation control.
   - Software is produced early in the software life cycle.
   - Additional Functionality can be added at a later date.
   - Good for large and mission-critical projects.
 
- - Disadvantages
+Disadvantages
   - May be hard to define objective, verifiable milestones.
   - Doesn’t work well for smaller projects.
   - Risk analysis requires highly specific expertise.
   - It's not suitable for low risk projects.
 
-3.Agile
- - Advantages: 
+3.Agile<br>
+Advantages
   - Customer satisfaction by rapid, continuous delivery of useful software.
   - Face-to-face conversation is the best form of communication.
   - Close, daily cooperation between business people and developers.
   - Continuous attention to technical excellence and good design.
   - Even late changes in requirements are welcomed.
 
- - Disadvantages
+Disadvantages
   - There is lack of emphasis on necessary designing and documentation.
   - The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
   - In case of some software deliverables, especially the large ones, it is difficult to assess the effort required at the beginning of the software development life cycle.
